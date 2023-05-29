@@ -19,7 +19,7 @@ pip install -r requirements.txt
 To run the tests, use the pytest command:
 
 ```sh
-pytest
+pytest --alluredir=allure-results
 ```
 
 To generate Allure reports after running the tests, use the following command:
