@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon May 29 18:46:43 GMT 2023","Mon May 29 18:46:44 GMT 2023","741","","test_booker","","","","test_update_booking",""
+"passed","Mon May 29 18:46:41 GMT 2023","Mon May 29 18:46:42 GMT 2023","467","","test_booker","","","","test_get_booking_ids",""
+"passed","Mon May 29 18:46:43 GMT 2023","Mon May 29 18:46:43 GMT 2023","365","","test_booker","","","","test_create_booking_with_bad_request",""
+"passed","Mon May 29 18:46:42 GMT 2023","Mon May 29 18:46:43 GMT 2023","371","","test_booker","","","","test_get_booking_by_id",""
+"passed","Mon May 29 18:46:42 GMT 2023","Mon May 29 18:46:42 GMT 2023","376","","test_booker","","","","test_create_booking",""
